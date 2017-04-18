@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    // Modificacion 1
+    // Modif 1
 
     override func viewDidLoad() {
         super.viewDidLoad()
